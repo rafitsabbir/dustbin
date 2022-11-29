@@ -4,7 +4,7 @@ public class Test {
 
 	public static void main(String[] args) {
 
-		System.out.println("test class for dev to master");
+		System.out.println("test class for master");
 	}
 
 }
