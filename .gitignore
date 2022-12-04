@@ -1,4 +1,6 @@
 .settings
 .project
 .classpath
+.class
+.settings
 bin/com/sabbir/test
